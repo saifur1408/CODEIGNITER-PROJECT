@@ -1,0 +1,68 @@
+http://www.w3schools.com/js/js_date_methods.asp
+
+var d = new Date();
+var days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+document.getElementById("demo").innerHTML = days[d.getDay()+1];
+
+var today, someday, text;
+today = new Date();
+someday = new Date();
+someday.setFullYear(2100, 0, 14);
+
+if (someday > today) {
+    text = "Today is before January 14, 2100.";
+} else {
+    text = "Today is after January 14, 2100.";
+}
+document.getElementById("demo").innerHTML = text;
+
+var d = new Date();
+document.getElementById("demo").innerHTML = d.getDay();
+
+var d = new Date();
+document.getElementById("demo").innerHTML = d.getFullYear();
+
+var d = new Date();
+document.getElementById("demo").innerHTML = d.getMonth();
+
+------
+<pre>
+<p>The getFullYear() method returns the full year of a date:</p>
+<span id="demo" ></span>&nbsp<span id="demo14"></span>
+<span id="demo1" ></span>&nbsp<span id="demo15"></span>
+<span id="demo2" ></span>&nbsp<span id="demo16"></span>
+<span id="demo3" ></span>&nbsp<span id="demo17"></span>
+<span id="demo4" ></span>&nbsp<span id="demo18"></span>
+<span id="demo5" ></span>&nbsp<span id="demo19"></span>
+<span id="demo6" ></span>&nbsp<span id="demo20"></span>
+</pre>
+<script>
+
+var d= new Date();
+var days = ["Sunday  ","Monday  ","Tuesday ","Wednesday","Thursday","Friday  ","Saturday","Sunday  ","Monday  ","Tuesday ","Wednesday","Thursday","Friday  ","Saturday"];
+document.getElementById("demo").innerHTML = days[d.getDay()];
+document.getElementById("demo1").innerHTML = days[d.getDay()+1];
+document.getElementById("demo2").innerHTML = days[d.getDay()+2];
+document.getElementById("demo3").innerHTML = days[d.getDay()+3];
+document.getElementById("demo4").innerHTML = days[d.getDay()+4];
+document.getElementById("demo5").innerHTML = days[d.getDay()+5];
+document.getElementById("demo6").innerHTML = days[d.getDay()+6];
+var e= new Date();
+document.getElementById("demo14").innerHTML = e.getFullYear();
+document.getElementById("demo15").innerHTML = e.getFullYear();
+document.getElementById("demo16").innerHTML = e.getFullYear();
+document.getElementById("demo17").innerHTML = e.getFullYear();
+document.getElementById("demo18").innerHTML = e.getFullYear();
+document.getElementById("demo19").innerHTML = e.getFullYear();
+document.getElementById("demo20").innerHTML = e.getFullYear();
+</script>
+
+
+------------------------------------
+
+
+
+SEARCH THE SPECIALIST YOU SEEK FOR:
+SPECIALIST
+
+$jsonText=getJSONFromDB("select * from doctor where specialist='".$dname."'");

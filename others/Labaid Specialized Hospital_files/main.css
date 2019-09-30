@@ -1,0 +1,332 @@
+﻿
+
+body
+{
+    background-image: url('../../../../img/body-bg.jpg');
+    color: Black;
+    font-family: Calibri;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    text-align: left;
+    width: 98%;
+}
+
+
+
+.body
+{
+    clear: both;
+    padding: 10px 10px 10px 20px;
+    width: 95%;
+    color: Black;
+    font-family: Calibri;
+}
+
+.mainContent
+{
+    width: 100%;
+    display: block;
+    text-align: left;
+    float: left;
+    font-family: Calibri;
+    color: Black;
+    font-family: Calibri;
+}
+
+.ContentPage
+{
+    width: 99%;
+    display: block;
+    text-align: left;
+    float: left;
+    font-family: Calibri;
+    color: Black;
+    font-family: Calibri;
+}
+
+/* Start Master  Page Top*/
+
+
+
+.divTop
+{
+    overflow: hidden;
+    line-height: 25px;
+    -border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-family: Calibri;
+    background-color: #FCFCFC;
+    width: 100%;
+    color: Black;
+}
+
+.divTop_pharma
+{
+    overflow: hidden;
+    line-height: 25px;
+    -border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-family: Calibri;
+    background-color: #FCFCFC;
+    width: 100%;
+    color: Black;
+}
+
+.divTop_sp
+{
+    overflow: hidden;
+    line-height: 25px;
+    -border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-family: Calibri;
+    background-color: #FCFCFC;
+    width: 100%;
+    color: Black;
+}
+
+.divTop_cardiac
+{
+    overflow: hidden;
+    line-height: 25px;
+    -border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-family: Calibri;
+    background-color: #FCFCFC;
+    width: 100%;
+    color: Black;
+}
+
+.divTop_diag
+{
+    overflow: hidden;
+    line-height: 25px;
+    -border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-family: Calibri;
+    background-color: #FCFCFC;
+    width: 100%;
+    color: Black;
+}
+
+.divTop_property
+{
+    overflow: hidden;
+    line-height: 25px;
+    -border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-family: Calibri;
+    background-color: #FCFCFC;
+    width: 100%;
+    color: Black;
+}
+
+.divTop_agro
+{
+    overflow: hidden;
+    line-height: 25px;
+    -border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-family: Calibri;
+    background-color: #FCFCFC;
+    width: 100%;
+    color: Black;
+}
+
+.divTop_financial
+{
+    overflow: hidden;
+    line-height: 25px;
+    -border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-family: Calibri;
+    background-color: #FCFCFC;
+    width: 100%;
+    color: Black;
+}
+
+.divTopLeft
+{
+    float: left;
+    text-align: left;
+    width: 35%;
+    margin-left: 10px;
+    color: Black;
+}
+
+.divTopMid
+{
+    float: right;
+    text-align: right;
+    width: 55%;
+    color: Black;
+}
+
+
+
+/* End Master  Page Top*/
+
+
+
+/* Start Master  Page Footer*/
+
+.divFooterWrapper
+{
+    width: 100%;
+    float: left;
+    padding: 5px 10px 3px 10px;
+    background-color: #002438;
+    -border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+/* End Master  Page Footer*/
+
+
+/* Start Content Page*/
+
+.divContainer
+{
+    width: 990px;
+    float: left;
+    -border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-family: Calibri;
+    color: Black;
+}
+
+.divWrapper
+{
+    width: 99%;
+    float: left;
+    -border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-family: Calibri;
+    color: Black;
+}
+
+
+
+.divLeftSideBar
+{
+    width: 200px;
+    float: left;
+    color: Black;
+    padding: 0 2% 2% 0;
+}
+
+.divLeftContent
+{
+    width: 200px;
+    float: left;
+    padding: 0 2% 2% 0;
+    color: Black;
+}
+
+.divRight
+{
+    width: 700px;
+    float: left;
+    padding: 0 2% 2% 5%;
+    color: Black;
+}
+
+.divRightContent
+{
+    width: 700px;
+    float: left;
+    padding: 0 2% 2% 5%;
+    color: Black;
+}
+
+
+.divTopContainer
+{
+    width: 100%;
+}
+
+.divTopLeftContainer
+{
+    font-size: medium;
+    font-family: Calibri;
+    float: left;
+    width: 58%;
+    color: Black;
+}
+
+
+.divMidContent
+{
+    padding: 5px 10px 5px 50px;
+    width: 52%;
+    text-align: left;
+    font-family: Calibri;
+    vertical-align: top;
+    font-style: normal;
+    display: block;
+    font-size: 14px;
+    float: left;
+    color: Black;
+}
+
+.divRightBar
+{
+    padding: 5px 10px 5px 20px;
+    width: 15%;
+    text-align: left;
+    font-family: Calibri;
+    vertical-align: top;
+    font-style: normal;
+    display: block;
+    font-size: 10px;
+    float: left;
+    color: Black;
+}
+/* End Content Page*/
+
+
+
+.select
+{
+    padding: 2px;
+    font-size: 12px;
+    font-family: Trebuchet MS;
+    border: 1;
+    height: 28px;
+    color: Black;
+}
+
+
+.divNews
+{
+    -moz-border-radius: 25px 10px / 10px 25px;
+    border-radius: 25px 10px / 10px 25px;
+    float: left;
+}
+
+.divAnn
+{
+    -moz-border-radius: 25px 10px / 10px 25px;
+    border-radius: 25px 10px / 10px 25px;
+    float: left;
+}
+.Divbanner
+{
+    width:100%;
+    display:block;
+    font-family:Calibri;
+    background-color:#FFEEDF;
+    overflow:auto;
+    max-height:350px;
+    }
+ 

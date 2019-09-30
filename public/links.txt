@@ -1,0 +1,3 @@
+https://codeigniter.com/userguide2/libraries/form_validation.html#callbacks
+
+https://codeigniter.com/userguide2/database/active_record.html
